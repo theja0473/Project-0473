@@ -1,0 +1,993 @@
+   68  vi getting_male_data.py
+   69  python getting_male_data.py
+   70  vi getting_male_data.py
+   71  python getting_male_data.py
+   72  vi getting_male_data.py
+   73  python getting_male_data.py
+   74  vi getting_male_data.py
+   75  vi Deleting_data_who_cross_age.py
+   76  python Deleting_data_who_cross_age.py
+   77  vi Deleting_data_who_cross_age.py
+   78  cd ..
+   79  ls
+   80  cd ..
+   81  cd 
+   82  ls
+   83  cd /home/hacker/
+   84  git clone https://github.com/webpy/webpy/tarball/master
+   85  git clone https://github.com/webpy/webpy/tarball
+   86  git clone https://github.com/webpy/webpy
+   87  ls
+   88  cd webpy/
+   89  ls
+   90  python setup.py install
+   91  sudo python setup.py install
+   92  ls
+   93  cd docs/
+   94  ls
+   95  cd ..
+   96  cd test/
+   97  ls
+   98  vi groupinouttata.php 
+   99  ssh root@192.168.0.102
+  100  ls
+  101  ssh root@192.168.0.102
+  102  ls
+  103  cd 
+  104  ls
+  105  git clone https://github.com/freebsd/crochet.git
+  106  ls
+  107  cd crochet/
+  108  ls
+  109  cd ..
+  110  svn checkout svn://svn.freebsd.org/base/head src
+  111  apt-get install subversion
+  112  svn checkout svn://svn.freebsd.org/base/head src
+  113  df -h
+  114  ls
+  115  rm -rf devbox/
+  116  rm -rf sketchbook/
+  117  rm -rf src/
+  118  rm -rf crochet/
+  119  df -h
+  120  ls -a
+  121  ls
+  122  rm -rf VirtualBox\ VMs/
+  123  ls
+  124  cd Downloads/
+  125  df -h 
+  126  df -h ./
+  127  du -m
+  128  du 
+  129  du -l
+  130  ls
+  131  ls -lrt
+  132  cd ..
+  133  ls
+  134  cd hacker/
+  135  ls
+  136  cd katoolin/
+  137  ls
+  138  cd ..
+  139  ls -lrt
+  140  rm -rf History_working_29_mar_2016~
+  141  ls -lrt
+  142  rm -rf History_working_29_mar_2016 
+  143  ls -lrt
+  144  katoolin
+  145  ls
+  146  df -h
+  147  ls
+  148  git clone https://github.com/freebsd/crochet.git
+  149  df -h
+  150  cd /
+  151  ls
+  152  cd /home/hacker/
+  153  ls
+  154  rm -rf crochet/
+  155  cd Downloads/
+  156  ls
+  157  cd ..
+  158  mv -R ./Downloads /media/hacker/HardDisk/Linux_Downloads/
+  159  mv -Rf ./Downloads /media/hacker/HardDisk/Linux_Downloads/
+  160  mv ./Downloads /media/hacker/HardDisk/Linux_Downloads/
+  161  df -h
+  162  sudo add-apt-repository ppa:ravefinity-project/ppa
+  163  sudo add-apt-repository ppa:noobslab/themes
+  164  sudo apt-get update
+  165  sudo apt-get install macbuntu-icons-v6
+  166  sudo apt-get install macbuntu-ithemes-v6
+  167  cd /usr/share/icons/mac-cursors && sudo ./uninstall-mac-cursors.sh
+  168  sudo apt-get remove macbuntu-ithemes-v6 macbuntu-icons-v6
+  169  vi /etc/apt/sources.list
+  170  sudo add-apt-repository ppa:noobslab/themes
+  171  sudo apt-get update
+  172  sudo apt-get install candra-gs-themes
+  173  canberra-gtk-play 
+  174  df -h
+  175  ls
+  176  cd Documents/
+  177  ls
+  178  cd ..
+  179  ls
+  180  ssh xion@192.168.3.108
+  181  ssh root@192.168.0.100
+  182  ping 192.168.0.117
+  183  ssh root@192.168.0.117
+  184  vi stt1.sh
+  185  ./stt1.sh
+  186  sudo bash stt1.sh
+  187  vi stt1.sh
+  188  cd 
+  189  ls
+  190  cd /home/hacker/
+  191  ls
+  192  cd pyspeech/
+  193  ls
+  194  cd pyspeech/
+  195  ls
+  196  tar xvzf ./Python-2.7.5
+  197  cd Python-2.7.5
+  198  ls
+  199  cd ..
+  200  ls
+  201  python setup.py install
+  202  python ./setup.py install
+  203  python speech.py
+  204  apt-get update python
+  205  apt-get update 
+  206  ls
+  207  python gstt.py 
+  208  vi gstt.py 
+  209  python gstt.py install
+  210  pip install requests
+  211  git clone git://github.com/kennethreitz/requests.git
+  212  cd requests/
+  213  ls
+  214  python setup.py install
+  215  pip install setup
+  216  ls
+  217  cd ..
+  218  ls
+  219  python gstt.py 
+  220  apt-get install flactag
+  221  cd
+  222  cd /home/hacker/
+  223  vi myip.php
+  224  php myip.php 
+  225  php myip.php google.com
+  226  vi myip.php
+  227  ls
+  228  cd pyspeech/
+  229  cd ..
+  230  ls 
+  231  cd google2ubuntu/
+  232  ls
+  233  python google2ubuntu.py 
+  234  cd ..
+  235  ls
+  236  vi stt1.sh 
+  237  bash stt1.sh 
+  238  sudo apt-get upgrade
+  239  sudo apt-get update
+  240  reboot
+  241  mkdir phpgoogle && cd phpgoogle
+  242  ls
+  243  git clone https://github.com/rogerthomas84/php-speech-to-text.git
+  244  ls
+  245  vi php-speech-to-text/
+  246  cd php-speech-to-text/
+  247  ls
+  248  cd sample/
+  249  ls
+  250  vi example.php 
+  251  cd ..
+  252  ls
+  253  git clone https://github.com/GoogleChrome/webplatform-samples.git
+  254  cd ..
+  255  ls
+  256  cd phpgoogle/
+  257  ls
+  258  cd webplatform-samples/
+  259  ls
+  260  cd webspeechdemo/
+  261  ls
+  262  chmod -R 777 /home/hacker/
+  263  cd ..
+  264  ls
+  265  vi voicetospeech.sh
+  266  bash voicetospeech.sh 
+  267  ls
+  268  aplay voice.wav
+  269  cat request.txt 
+  270  bash voicetospeech.sh 
+  271  ls
+  272  aplay voice.wav
+  273  cat request.txt 
+  274  nano voice
+  275  nano voicetospeech.sh 
+  276  ping 192.168.1.1\201
+  277  ping 192.168.1.201
+  278  ls
+  279  cd PiAUISuite/Install/
+  280  ./InstallAUISuite.sh
+  281  ls
+  282  ./InstallAUISuite.sh
+  283  ls
+  284  ./InstallAUISuite.sh
+  285  cd
+  286  ls
+  287  cd /home/hacker/
+  288  ls
+  289  mkdir alexa
+  290  cd alexa/
+  291  ls
+  292  git clone https://github.com/anjishnu/ask-alexa-pykit.git
+  293  LS
+  294  ls
+  295  cd ask-alexa-pykit/
+  296  ls
+  297  git checkout python_lambda_0.5_release 
+  298  mkdir my_new_skill
+  299  pip install ask-alexa-pykit --target my_new_skill 
+  300  python -m ask.generate_training_data -i INTENT_SCHEMA -o TRAINING_DATA_OUTPUT_LOCATION 
+  301  ls
+  302  cd
+  303  ls
+  304  cd alexa/
+  305  ls
+  306  cd ask-alexa-pykit/
+  307  ls
+  308  cd ..
+  309  ls
+  310  cd ..
+  311  ls
+  312  cd alexa/
+  313  ls
+  314  git clone https://github.com/JamezQ/Palaver.git
+  315  ls
+  316  cd Palaver/
+  317  ls
+  318  ./installDefault 
+  319  ./install_gui 
+  320  pip install pygtk
+  321  apt-get install pygtk
+  322  ./install_gui 
+  323  cd ..
+  324  ls
+  325  ssh 192.168.0.105
+  326  ls
+  327  mkdir speech
+  328  cd speech
+  329  ls
+  330  git clone https://github.com/dconroy/PiTranslate.git
+  331  ls
+  332  cd PiTranslate/
+  333  ls
+  334  python PiTranslate.py 
+  335  ls
+  336  sh stt.sh 
+  337  apt-get install pycurl
+  338  apt-get install python-curl
+  339  pip install pycurl
+  340  sh stt.sh 
+  341  cd ..
+  342  lls
+  343  ls
+  344  sudo apt-get install -y libboost-dev libboost-regex-dev youtube-dl axel curl xterm libcurl4-gnutls-dev mpg123 flac sox
+  345  sudo apt-get remove libboost-all-dev
+  346  sudo apt-get install libboost-all-dev
+  347  sudo apt-get autoremove
+  348  sudo apt-get install -y libboost-dev libboost-regex-dev youtube-dl axel curl xterm libcurl4-gnutls-dev mpg123 flac sox
+  349  git clone git://github.com/cmusphinx/sphinxbase.git
+  350  ls
+  351  sudo add-apt-repository ppa:baitsart/voice-commands
+  352  sudo apt-get update
+  353  mkdir -p .voice_commands/v-c\ LANGS/
+  354  wget -O commands-en http://drive.noobslab.com/data/apps/voice-commands/commands-en
+  355  mv commands-en .voice_commands/v-c\ LANGS/
+  356  v-c
+  357  ls
+  358  cd ubuntu_speech_auto/
+  359  ls
+  360  cd ubuntu-speech-recognition/
+  361  ls
+  362  cd ..
+  363  ls
+  364  git clone https://github.com/Uberi/speech_recognition.git
+  365  ls
+  366  mkdir jamezQ
+  367  cd jamezQ/
+  368  ls
+  369  git clone https://github.com/JamezQ/Palaver.git
+  370  cp /etc/apt/sources.list /etc/apt/sources.list.old
+  371  vim /etc/apt/sources.list
+  372  rm /etc/apt/sources.list
+  373  vi /etc/apt/sources.list
+  374  apt-get update
+  375  mv /etc/apt/sources.list /etc/apt/sources.list_old
+  376  mv /etc/apt/sources.list.old /etc/apt/sources.list
+  377  ls /etc/apt/
+  378  apt-get update
+  379  vi /etc/apt/sources.list
+  380  mv /etc/apt/sources.list /etc/apt/sources.list.old
+  381  vi /etc/apt/sources.list
+  382  apt-get update
+  383  vi /etc/apt/sources.list
+  384  mv /etc/apt/sources.list /etc/apt/sources.list_save
+  385  mv /etc/apt/sources.list.old /etc/apt/sources.list
+  386  ls /etc/apt/
+  387  ssh 192.168.0.105
+  388  qemu-mips64-static ./sh
+  389  sudo apt-get install qemu-kvm qemu virt-manager virt-viewer libvirt-bin
+  390  sudo apt-get install libasound2-dev autoconf libtool bison
+  391  sudo apt-get install swig python-dev python-pyaudio
+  392  curl -O https://bootstrap.pypa.io/get-pip.py
+  393  sudo python get-pip.py
+  394  sudo pip install gevent grequests
+  395  sudo apt-get install screen
+  396  screen -DR sphinx
+  397  cd /var/www/html/
+  398  ls
+  399  cd Web/
+  400  ls
+  401  cd ..
+  402  ls
+  403  cd ..
+  404  cd
+  405  ls
+  406  cd Desktop/
+  407  ls
+  408  mkdir theja_php
+  409  cd theja_php/
+  410  vi one.php
+  411  vi one.sh
+  412  php one.php
+  413  vi one.php
+  414  sh one.sh
+  415  vi one.php
+  416  php one.php 
+  417  vi one.php
+  418  php one.php 
+  419  vi one.php
+  420  php one.php 
+  421  vi one.php
+  422  vi one.sh
+  423  sh one.sh 3 5
+  424  vi one.sh
+  425  sh one.sh 3 5
+  426  php one.php 3 5
+  427  sh one.sh 3 5
+  428  vi one.php 
+  429  sh one.sh 3 5
+  430  php one.php 3 5
+  431  vi one.php 
+  432  php one.php 3 5
+  433  vi one.php 
+  434  php one.php 3 5
+  435  vi one.php 
+  436  php one.php 3 5
+  437  vi one.php 
+  438  php one.php 3 5
+  439  vi one.php 
+  440  php one.php 3 5
+  441  vi one.php 
+  442  php one.php 3 5
+  443  vi one.php 
+  444  php one.php 3 5
+  445  vi one.php 
+  446  php one.php 3 5
+  447  vi one.php 
+  448  php one.php 3 5
+  449  vi one.php 
+  450  php one.php 3 5
+  451  vi one.php 
+  452  php one.php 3 5
+  453  vi one.php 
+  454  php one.php 3 5
+  455  vi one.php 
+  456  php one.php 3 5
+  457  vi one.php 
+  458  php one.php 3 5
+  459  vi one.php 
+  460  php one.php 3 5
+  461  vi one.php 
+  462  php one.php 3 5
+  463  vi one.php 
+  464  php one.php 3 5
+  465  vi one.php 
+  466  sh one.sh 3 5
+  467  vi one.php 
+  468  php one.php 3 5
+  469  vi one.php 
+  470  php one.php 3 5
+  471  vi one.php 
+  472  php one.php 3 5
+  473  vi one.php 
+  474  php one.php 3 5
+  475  vi one.php 
+  476  php one.php 3 5
+  477  cd
+  478  ls
+  479  cd Desktop/
+  480  ls
+  481  cd theja_php/
+  482  ls
+  483  vi 3.php
+  484  php 3.php
+  485  vi 3.php
+  486  chmod 777 ./*
+  487  ls
+  488  vi 3.php
+  489  php 3.php 3 5
+  490  vi 3.php
+  491  php 3.php 3 5
+  492  vi 3.php
+  493  php 3.php 3 5
+  494  vi 3.php
+  495  php 3.php 3 5
+  496  vi 3.php
+  497  sh one.sh 3 5
+  498  vi 3.php
+  499  pwd
+  500  vi 3.php
+  501  ls
+  502  vi 3.php
+  503  php 3.php
+  504  vi 3.php
+  505  php 3.php
+  506  vi 3.php
+  507  php 3.php
+  508  vi 3.php
+  509  ls
+  510  cd /var/www
+  511  l
+  512  cd html/
+  513  ls
+  514  cd www
+  515  ls
+  516  cd ..
+  517  ls
+  518  cd python/
+  519  ls
+  520  vi getting_male_data.py 
+  521  ifconfig
+  522  cd ..
+  523  ls
+  524  mkdir php
+  525  ls
+  526  ifconfig
+  527  uname
+  528  cd /var/www/html
+  529  ls
+  530  cd Web/
+  531  ls
+  532  cd Boxify/
+  533  ls
+  534  cd ../../
+  535  ls
+  536  cd php
+  537  ls
+  538  nano one.php
+  539  php one.php
+  540  cd
+  541  ls
+  542  cd /
+  543  ls
+  544  cd /var/www/html
+  545  ls
+  546  cd python/
+  547  ls
+  548  vi one.py
+  549  ls
+  550  cd ..
+  551  cd www/
+  552  ls
+  553  vi userlogin.php 
+  554  cd mobomy/
+  555  ls
+  556  cd ..
+  557  ls
+  558  cd /var/html/php/
+  559  cd//var/html/php/
+  560  ls
+  561  nono one.php
+  562  cd /var/www/html/php
+  563  ls
+  564  nono one.php
+  565  nano one.php
+  566  ssh 192.168.0.102
+  567  cd
+  568  ls
+  569  cd /home/hacker/
+  570  ls
+  571  arecord -D plughw:1,0 -f -d 3 wav test.wav
+  572  arecord -D plughw:1,0 -f cd test.wav
+  573  ls
+  574  arecord -D plughw:0,0 -f cd test.wav
+  575  ls
+  576  aplay test.wav 
+  577  alsamixer 
+  578  aplay test.wav 
+  579  arecord -D plughw:0,0 -f cd test.wav
+  580  aplay test.wav 
+  581  arecord -D plughw:0,0 -f cd test.wav
+  582  aplay test.wav 
+  583  arecord -D plughw:0,0 -f cd test.wav
+  584  aplay test.wav 
+  585  arecord -D plughw:0,0 -f cd test.wav
+  586  aplay test.wav 
+  587  sudo apt-get update && sudo apt-get upgrade && sudo apt-get install bison && sudo apt-get install libasound2-dev && sudo apt-get install swig && sudo apt-get install python-dev && sudo apt-get install mplayer
+  588  wget http://sourceforge.net/projects/cmusphinx/files/sphinxbase/5prealpha/sphinxbase-5prealpha.tar.gz
+  589  ls
+  590  rm -rf sphinxbase-5prealpha.tar.gz.2
+  591  tar -zxvf sphinxbase-5prealpha.tar.gz.1
+  592  cd sphinxbase-5prealpha
+  593  ./configure --enable=fixed
+  594  ./configure --enable-fixed
+  595  ./configure --enable-fixed && make clean all && make check && sudo make install
+  596  cd ..
+  597  wget http://sourceforge.net/projects/cmusphinx/files/pocketsphinx/5prealpha/pocketsphinx-5prealpha.tar.gz
+  598  tar -zxvf pocketsphinx-5prealpha.tar.gz
+  599  cd ./pocketsphinx-5prealpha
+  600  ./configure
+  601  make clean all
+  602  make check
+  603  sudo make install
+  604  cd ..
+  605  ls
+  606  ssh 192.168.0.102
+  607  ls
+  608  cd
+  609  ssh root@192.168.0.102
+  610  ls
+  611  cd /var/www
+  612  cd html
+  613  ls
+  614  cd api-ai-javascript-master/
+  615  ls
+  616  cd demo/
+  617  ls
+  618  vi new.sh 
+  619  ls
+  620  aplay newtast1.wav
+  621  aplay test.wav
+  622  aplay output.wav 
+  623  vi new.sh 
+  624  sh new.sh 
+  625  vi new.sh 
+  626  cat test.txt 
+  627  vi new.sh 
+  628  vi new.sh 
+  629  sh new.sh 
+  630  vi new.sh 
+  631  sh new.sh 
+  632  vi new.sh 
+  633  scp new.sh root@192.168.0.102:/root/
+  634  history
+  635  history | grep apt-get
+  636  history | grep apt-get | grep jq
+  637  ls
+  638  vi new.sh
+  639  sh new.sh 
+  640  vi new.sh
+  641  cat result 
+  642  vi new.sh
+  643  vi one.php
+  644  vi new.sh
+  645  vi one.php
+  646  php one.php
+  647  vi one.php
+  648  vi new.sh
+  649  vi one.php
+  650  php one.php
+  651  vi one.php
+  652  php one.php
+  653  sh new.sh
+  654  vi new.sh
+  655  php one.php
+  656  vi one.php
+  657  php one.php
+  658  vi one.php
+  659  vi new.sh
+  660  sh new.sh
+  661  vi new.sh
+  662  sh new.sh
+  663  cat test.txt 
+  664  php one.php
+  665  vi one.php
+  666  vi new.sh
+  667  sh new.sh
+  668  vi new.sh
+  669  sh new.sh
+  670  vi new.sh
+  671  sh new.sh
+  672  vi new.sh
+  673  sh new.sh
+  674  vi new.sh
+  675  sh new.sh
+  676  vi new.sh
+  677  sh new.sh
+  678  vi new.sh
+  679  sh new.sh
+  680  vi new.sh
+  681  sh new.sh
+  682  vi new.sh
+  683  sh new.sh
+  684  vi new.sh
+  685  sh new.sh
+  686  vi new.sh
+  687  sh new.sh
+  688  vi new.sh
+  689  sh new.sh
+  690  vi new.sh
+  691  sh new.sh
+  692  vi new.sh
+  693  sh new.sh
+  694  vi new.sh
+  695  sh new.sh
+  696  vi new.sh
+  697  sh new.sh
+  698  vi new.sh
+  699  sh new.sh
+  700  vi new.sh
+  701  vi new.shx!
+  702  vi new.sh
+  703  sh new.sh
+  704  vi new.sh
+  705  sh new.sh
+  706  vi new.sh
+  707  sh new.sh
+  708  vi new.sh
+  709  sh new.sh
+  710  vi new.sh
+  711  cp new.sh sp2txt.sh
+  712  scp sp2txt.sh root@192.168.0.102:/root/
+  713  ssh 192.168.0.102
+  714  ls
+  715  vim sp2txt.sh 
+  716  sh sp2txt.sh 
+  717  vim sp2txt.sh 
+  718  sh sp2txt.sh 
+  719  vim sp2txt.sh 
+  720  sh sp2txt.sh 
+  721  vim sp2txt.sh 
+  722  sh sp2txt.sh 
+  723  vim sp2txt.sh 
+  724  sh sp2txt.sh 
+  725  vim sp2txt.sh 
+  726  sh sp2txt.sh 
+  727  vim sp2txt.sh 
+  728  sh sp2txt.sh 
+  729  vim sp2txt.sh 
+  730  ls
+  731  vim sp2txt.sh 
+  732  cat test.txt 
+  733  x!
+  734  vim sp2txt.sh 
+  735  LS
+  736  ls
+  737  if [ -f test.txt ] ; then rm -rf test.txt ; else echo "deleted" ; fi
+  738  if [ -f test.txt ] ; then rm -rf test.txt ; else echo "" ; fi
+  739  if [ -f test.txt ] ; then rm -rf test.txt ; fi
+  740  vim sp2txt.sh 
+  741  sh sp2txt.sh 
+  742  vim sp2txt.sh 
+  743  sh sp2txt.sh 
+  744  vim sp2txt.sh 
+  745  sh sp2txt.sh 
+  746  vim sp2txt.sh 
+  747  sh sp2txt.sh 
+  748  vim sp2txt.sh 
+  749  sh sp2txt.sh 
+  750  vim sp2txt.sh 
+  751  sh sp2txt.sh 
+  752  vim sp2txt.sh 
+  753  sh sp2txt.sh 
+  754  vim sp2txt.sh 
+  755  nano sp2txt.sh 
+  756  sh sp2txt.sh 
+  757  vim sp2txt.sh 
+  758  sh sp2txt.sh 
+  759  vim sp2txt.sh 
+  760  sh sp2txt.sh 
+  761  vim sp2txt.sh 
+  762  sh sp2txt.sh 
+  763  vim sp2txt.sh 
+  764  sh sp2txt.sh 
+  765  vim sp2txt.sh 
+  766  sh sp2txt.sh 
+  767  vim sp2txt.sh 
+  768  sh sp2txt.sh 
+  769  vim sp2txt.sh 
+  770  cp sp2txt.sh sp2txt_error.sh
+  771  vim sp2txt.sh 
+  772  ls
+  773  cat /var/www/html/api-ai-javascript-master/demo/new.sh 
+  774  vim sp2txt.sh 
+  775  sh sp2txt.sh 
+  776  vim sp2txt.sh 
+  777  ls
+  778  vi sp2txt.sh 
+  779  curl -k -F "request={'timezone':'America/New_York', 'lang':'en'};type=application/json" -F "voiceData=@hello.wav;type=audio/wav" -H "Authorization: Bearer " "https://api.api.ai/v1/query?v=20160421"
+  780  ls
+  781  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer "db55bf683da3485da93765f52dd1326f" https://api.api.ai/v1/query?v=20160421"
+  782  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer "db55bf683da3485da93765f52dd1326f"https://api.api.ai/v1/query?v=20160421"
+  783  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f https://api.api.ai/v1/query?v=20160421"
+  784  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer "db55bf683da3485da93765f52dd1326f" https://api.api.ai/v1/query?v=20160421"
+  785  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20160421"
+  786  aplay test.wav 
+  787  cat sp2txt.sh 
+  788  arecord -r 16000 -f S16_LE -c 1 -D plughw:1,0 -d 3 -t wav test.wav
+  789  arecord -r 16000 -f S16_LE -c 1 -D plughw:0,0 -d 3 -t wav test.wav
+  790  aplay test.wav 
+  791  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20160421"
+  792  arecord -r 16000 -f S16_LE -c 1 -D plughw:0,0 -d 3 -t wav test.wav
+  793  aplay test.wav 
+  794  curl -k -F "request={'timezone':'Asia/Kolkata', 'lang':'en'};type=application/json" -F "voiceData=@test.wav;type=audio/wav" -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20160421"
+  795  curl -H "Content-Type: application/json; charset=utf-8" -H "Authorization: Bearer YOUR_ACCESS_TOKEN" --data "{'query':'and for tomorrow', 'timezone':'GMT-5', 'lang':'en', 'contexts':[{ 'name': 'weather', 'parameters':{'city': 'London'}, 'lifspan': 4}], 'sessionId':'1234567890'}" "https://api.api.ai/v1/query?v=20160421"
+  796  curl -H "Content-Type: application/json; charset=utf-8" -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" --data "{'query':'and for tomorrow', 'timezone':'GMT-5', 'lang':'en', 'contexts':[{ 'name': 'weather', 'parameters':{'city': 'London'}, 'lifspan': 4}], 'sessionId':'1234567890'}" "https://api.api.ai/v1/query?v=20160421"
+  797  curl -H "Content-Type: application/json; charset=utf-8" -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" --data "{'query':'and for tomorrow', 'timezone':'GMT-5', 'lang':'en', 'contexts':[{ 'name': 'weather', 'parameters':{'city': 'Bangalore'}, 'lifspan': 4}], 'sessionId':'1234567890'}" "https://api.api.ai/v1/query?v=20160421"
+  798  curl -H "Authorization: Bearer YOUR_ACCESS_TOKEN" "https://api.api.ai/v1/query?v=20150910&query=weather&timezone=Europe/Paris&lang=en&contexts=weather&contexts=europe&latitude=37.459157&longitude=-122.17926&sessionId=1234567890"
+  799  curl -H " -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20150910&query=weather&timezone=Asia/Kolkata&lang=en&contexts=weather&contexts=europe&latitude=37.459157&longitude=-122.17926&sessionId=1234567890"
+  800  curl -H " -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20150910&query=weather&timezone=Asia/Kolkata&lang=en&contexts=weather&contexts=europe&latitude=37.459157&longitude=-122.17926&sessionId=1234567890"
+  801  curl -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20150910&query=weather&timezone=Asia/Kolkata&lang=en&contexts=weather&contexts=europe&latitude=37.459157&longitude=-122.17926&sessionId=1234567890"
+  802  curl -H "Authorization: Bearer db55bf683da3485da93765f52dd1326f" "https://api.api.ai/v1/query?v=20150910&query=weather&timezone=Asia/Kolkata&lang=en&contexts=weather&contexts=europe&latitude=12.9716&longitude=77.5946&sessionId=1234567890"
+  803  GET https://api.api.ai/v1/tts?v=201560421text=Hello+world
+  804  curl -k -H "Authorization: Bearer db55bf683da348da93765f52dd1326f" -H "Accept-language: en-US" "https://api.api.ai/v1/tts?v=20160421&text=test" -o output.wav
+  805  aplay output.wav 
+  806  curl -k -H "Authorization: Bearer db55bf683da348da93765f52dd1326f" -H "Accept-language: en-US" "https://api.api.ai/v1/tts?v=20160421&text=Hello World" -o output.wav
+  807  aplay output.wav 
+  808  curl -k -H "Authorization: Bearer db55bf683da348da93765f52dd1326f" -H "Accept-language: en-US" "https://api.api.ai/v1/tts?v=20160421&text=HelloWorld" -o output.wav
+  809  aplay output.wav 
+  810  curl -k -H "Authorization: Bearer db55bf683da348da93765f52dd1326f" -H "Accept-language: en-US" "https://api.api.ai/v1/tts?v=20160421&text=HelloWorldHOWAREYOU" -o output.wav
+  811  aplay output.wav 
+  812  curl -k -H "Authorization: Bearer db55bf683da348da93765f52dd1326f" -H "Accept-language: en-US" "https://api.api.ai/v1/tts?v=20160421&text=POLLUTION" -o output.wav
+  813  aplay output.wav 
+  814  ls
+  815  vi sp2txt.sh 
+  816  sh sp2txt.sh 
+  817  vi sp2txt.sh 
+  818  sudo ssh root@192.168.0.102
+  819  ssh xion@192.168.3.108
+  820  ssh root@192.168.0.102
+  821  cd /var/www/html/
+  822  ls
+  823  mkdir secure_login
+  824  cd secure_login/
+  825  vi psl-config.php
+  826  vi db_connect.php
+  827  vi psl-config.php
+  828  vi db_connect.php
+  829  vi functions.php
+  830  vi process_login.php
+  831  vi logout.php
+  832  vi register.php
+  833  vi register.inc.php
+  834  vi sha512.js
+  835  vi form.js
+  836  vi forms.js
+  837  vi index.php
+  838  vi register_success.php
+  839  vi error.php
+  840  vi protected_page.php
+  841  ls
+  842  cd ..
+  843  chmod 777 ./*
+  844  chown www-data:www-data ./*
+  845  ls
+  846  cd ..
+  847  ls
+  848  cd html
+  849  ls
+  850  cd secure_login/
+  851  ls
+  852  ssh 192.168.0.102
+  853  ssh pi@192.168.0.117
+  854  ssh pi@192.168.0.102
+  855  ssh root@192.168.0.102
+  856  multitail /home/ /home/hacker/Arduino/
+  857  ssh root@192.168.0.102
+  858  vi Login.php 
+  859  php Login.php 
+  860  vi Login.php 
+  861  ls
+  862  ls -a
+  863  rm -rf .* 
+  864  ls
+  865  ls -a
+  866  cd /var/www/html/registeration/
+  867  ls
+  868  vi login.php 
+  869  php login.php 
+  870  cd
+  871  ls
+  872  ifconfig
+  873  lsusb
+  874  ifup wlan0
+  875  ifup wlan1
+  876  ifup wlan2
+  877  ifup wlan3
+  878  ls
+  879  ifconfig
+  880  ifup wlp3s1
+  881  ssh root@192.168.0.102
+  882  cd etc/network/
+  883  vi interfaces
+  884  cd
+  885  umount /dev/sdb2
+  886  umount /dev/sdb1
+  887  umount /dev/sdb2
+  888  ssh root@192.16.1.158
+  889  ssh root@192.168.1.158
+  890  ssh root@192.168.0.102
+  891  ssh root@192.168.0.124
+  892  ls
+  893  iwconfig 
+  894  cd /var/www/html/www/
+  895  ls
+  896  cd
+  897  ls
+  898  shutdown now
+  899  sh sp2txt_demo2.sh 
+  900  vi sp2txt_demo2.sh 
+  901  arecord -r 16000 -f S16_LE -c 1 -D plughw:0,0 -d 3 -t wav newtest1.wav
+  902  aplay newtest1.wav 
+  903  alsamixer 
+  904  aplay newtest1.wav 
+  905  arecord -r 16000 -f S16_LE -c 1 -D plughw:0,0 -d 3 -t wav newtest1.wav
+  906  aplay newtest1.wav 
+  907  arecord -r 16000 -f S16_LE -c 1 -D plughw:0,0 -d 3 -t wav newtest1.wav
+  908  aplay newtest1.wav 
+  909  alsamixer 
+  910  aplay newtest1.wav 
+  911  sh sp2txt_demo2.sh 
+  912  vi sp2txt_demo2.sh 
+  913  sh sp2txt_demo2.sh 
+  914  vi sp2txt_demo2.sh 
+  915  sh sp2txt_demo2.sh 
+  916  vi sp2txt_demo2.sh 
+  917  sh sp2txt_demo2.sh 
+  918  vi sp2txt_demo2.sh 
+  919  sh sp2txt_demo2.sh 
+  920  vi sp2txt_demo2.sh 
+  921  sh sp2txt_demo2.sh 
+  922  vi sp2txt_demo2.sh 
+  923  ssh root@192.168.0.124
+  924  ls
+  925  git remote add origin ssh://git@192.168.3.108:/home/xion/project.git
+  926  git remote add origin ssh://git@192.168.3.108:/home/xion/project
+  927  git remote add origin ssh://git@192.168.3.108:/home/xion/project-1.git
+  928  git remote add origin ssh://xion@192.168.3.108:/home/xion/project-1.git
+  929  git remote add origin xion@192.168.3.108:/home/xion/project-1.git
+  930  git remote add origin xion@192.168.3.108:/home/xion/git
+  931  git remote add origin git@192.168.3.108:/home/xion/git
+  932  git remote add origin git@192.168.3.108:/home/xion/git/.get
+  933  git remote add origin g@192.168.3.108:/home/xion/git/.git
+  934  git clone git@192.168.3.108:/home/xion/project-1.git
+  935  git clone xion@192.168.3.108:/home/xion/project-1.git
+  936  git clone xion@192.168.3.108:/home/xion/git
+  937  git clone xion@192.168.3.108:/home/xion/git/project
+  938  rm -rf project
+  939  git clone xion@192.168.3.108:/home/xion/git/project
+  940  cd project
+  941  ls
+  942  cd BackEnd/
+  943  ls
+  944  cd ww
+  945  cd www/
+  946  ls
+  947  vi jsonbuffer.txt 
+  948  rm -rf jsonbuffer.txt 
+  949  ls
+  950  cd ..
+  951  ls
+  952  cd ..
+  953  git push origin master
+  954  cd www
+  955  ls
+  956  cd BackEnd/
+  957  cd www/
+  958  git push origin master
+  959  git add .
+  960  git push origin master
+  961  ls
+  962  git commit -m "I deleted JsonBuffer"
+  963  git config --global user.email "theja0473@gmail.com"
+  964  git config --global user.name "Theja0473"
+  965  git commit -m "I deleted JsonBuffer"
+  966  git push origin master
+  967  git pull --rebase
+  968  git push
+  969  git pull --rebase origin master
+  970  git push origin master
+  971  git reset --mixed origin/master
+  972  git add .
+  973  git commit -m "This is a new commit for what I originally planned to be amended"
+  974  git push origin master
+  975  ls
+  976  vi jsonbuffer.txt
+  977  git add .
+  978  git commit -m "This is a new commit for what I originally planned to be amended"
+  979  git push origin master
+  980  cd ../../../
+  981  ls
+  982  rm -rf project
+  983  rm -rf project-1/
+  984  ls
+  985  rm -rf Mgmt/
+  986  rm -rf Backend/
+  987  rm -rf git/
+  988  git clone xion@192.168.3.108:/home/xion/git/project
+  989  cd project/
+  990  ls
+  991  cd BackEnd/
+  992  ls
+  993  cd www
+  994  ls
+  995  vi sp2txt_running.sh 
+  996  git add .
+  997  git commit -m "This is a new commit for what I originally planned to be amended"
+  998  git push origin master
+  999  git pull --rebase origin master
+ 1000  git commit -m "This is a new commit for what I originally planned to be amended"
+ 1001  git push origin master
+ 1002  sudo git push origin master
+ 1003  ls
+ 1004  git add .
+ 1005  git commit -m "This is a new commit for what I originally planned to be amended"
+ 1006  sudo git push origin master
+ 1007  git pull
+ 1008  sudo git push origin master
+ 1009  git config recive.denyCurrentBranch ignore
+ 1010  git pull
+ 1011  sudo git push origin master
+ 1012  git reset --hard
+ 1013  git commit -m "This is a new commit for what I originally planned to be amended"
+ 1014  git pull
+ 1015  sudo git push origin master
+ 1016  git push origin master
+ 1017  git status
+ 1018  git push
+ 1019  git help config
+ 1020  git config --global user.name "theja0473"
+ 1021  git config --global user.email "theja0473@gmail.com"
+ 1022  cd 
+ 1023  ls
+ 1024  mkdir Project-0473
+ 1025  echo "# Project-0473" >> README.md
+ 1026  git init
+ 1027  git add README.md
+ 1028  git commit -m "first commit"
+ 1029  git remote add origin https://github.com/theja0473/Project-0473.git
+ 1030  git push -u origin master
+ 1031  touch file1 file2 file3
+ 1032  git commit -m "files commit"
+ 1033  git add .
+ 1034  git commit -m "files commit"
+ 1035  git remote add origin https://github.com/theja0473/Project-0473.git
+ 1036  git push -u origin master
+ 1037  cd
+ 1038  cd .ssh/
+ 1039  ls
+ 1040  cp id_rsa.pub /home/hacker/
+ 1041  cd /home/hacker/
+ 1042  cd
+ 1043  ls
+ 1044  cd Project-0473/
+ 1045  ls
+ 1046  touch file4
+ 1047  git add .
+ 1048  git commit -m "File four added"
+ 1049  history 
+ 1050  ls
+ 1051  git remote add origin https://github.com/theja0473/Project-0473.git
+ 1052  git push -u origin master
+ 1053  ls
+ 1054  cat >> file4
+ 1055  ls
+ 1056  cat file4 
+ git add .
+ git commit -m "File four Updated"
+ git remote add origin https://github.com/theja0473/Project-0473.git
+ git push -u origin master
